@@ -1,4 +1,4 @@
-# Ejercicio: Esquematización de los diagramas de flujo
+# Esquematización de los diagramas de flujo
 
 - Se pide calcular el área de un cuadrado dado uno de sus lados. 
 - El esquema a seguir es simple: tan solo debemos multiplicar el input por sí mismo.
