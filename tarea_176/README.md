@@ -10,4 +10,4 @@
 5. Decir si una palabra dada es palíndromo
 6. Comparar dos listas y encuentre si hay algún valor coincidente
 
-**La resolución de los ejercicios se encuentra en el archivo adjunto en la misma carpeta** 
+**La resolución de los ejercicios se encuentra en el archivo ipynb adjunto en la misma carpeta** 
